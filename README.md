@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/Hooks-Context%20API-61DAFB?logo=react" alt="Hooks">
   <img src="https://img.shields.io/badge/Logic-Game%20State-orange?logo=gamepad" alt="Game Engine">
   <img src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Routing-React%20Router-CA4245?logo=reactrouter&logoColor=white" alt="React Router">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-blue" alt="Frontend">
+  <img src="https://img.shields.io/badge/Routing-React%20Router-CA4245?logo=reactrouter&logoColor=white" alt="React Router">
   <img src="https://img.shields.io/badge/Logic-Context%20%7C%20Hooks-purple" alt="Logic">
   <img src="https://img.shields.io/badge/UI-Responsive-brightgreen?logo=css3" alt="Responsive">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
