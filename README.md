@@ -26,6 +26,20 @@ Pac-Man React brings the arcade nostalgia to the browser. The project focuses on
 
 ---
 
+## 🖼️ Game Visuals & Levels
+
+| Easy Level | Medium Level | Advanced Level |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/2160eb23-ba36-4010-b545-64ee0aca3cdf" width="200" /> | <img src="https://github.com/user-attachments/assets/35c50b5e-3597-4fb1-ae3b-6b0b356ef961" width="200" /> | <img src=""https://github.com/user-attachments/assets/a8f754b6-e46c-42c4-97c9-4e57ea63f14c" width="200" /> |
+
+<p align="center">
+  <strong>Game Over State</strong>
+  <br>
+  <img src="https://github.com/user-attachments/assets/62ce5854-a61f-4cb6-bf05-f22d9c1a01b5" width="400" />
+</p>
+
+---
+
 ## 🛠️ Technology Stack
 This project leverages modern web development standards:
 * **UI Framework:** React
