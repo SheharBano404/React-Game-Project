@@ -64,7 +64,7 @@ Follow these steps to get the game running on your local machine.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/SheharBano404/Shehars-React-Game-Project.git
-   cd pacman-react
+   cd shehars-react-game-project
 
 2. **Install Dependencies**
    ```bash
